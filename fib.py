@@ -7,5 +7,3 @@ def fib(n):
 
 print(list(fib(5)))
 
-def test_fib():
-    assert fib(5) == [0,1,1,2,3]
